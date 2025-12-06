@@ -1,0 +1,1 @@
+"C:\Program Files\Blender Foundation\Blender 4.5\blender.exe" --python "C:\Users\kanis\pytorch_floorplan\blender_script.py"
